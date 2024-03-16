@@ -147,10 +147,10 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zdotdev&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zdotdev&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zdotdev&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zdotdev&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zdotdev&theme=darcula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zdotdev&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zdotdev&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zdotdev&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zdotdev&theme=monokai&utcOffset=8)
 
 </div>
 <br/><br/>
