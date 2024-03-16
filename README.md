@@ -160,6 +160,7 @@
 <br/>
 
 <div align="center">
+<h2>Dont't hesitate to reach out.📩</h2>
 <a href='https://www.instagram.com/zedsilog/' target='_blank'><img height='64' style='border:0px;height:64px;' src='instagram.png' border='0' alt='Chat?' /></a>
 <a href='https://www.facebook.com/zedsilog' target='_blank'><img height='64' style='border:0px;height:64px;' src='facebook.png' border='0' alt='Chat?' /></a>
 <a href='https://twitter.com/itsyokuzan' target='_blank'><img height='64' style='border:0px;height:64px;' src='twitter.png' border='0' alt='Chat?' /></a>
