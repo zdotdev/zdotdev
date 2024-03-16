@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=ai,linux,neovim,ps,pr,replit,unity,xd,visualstudio,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,css,express,html,java,js,mongodb,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,php,postman,powershell,py,react,svelte,tailwind,vite" /><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" style="width: 2.5rem; height: 2.5rem;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" style="width: 3rem; height: 3rem;" />
 </div>
 
 <br/>
