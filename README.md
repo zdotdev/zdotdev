@@ -157,7 +157,6 @@
 
 <hr/>
 
-<br/>
 
 <div align="center">
 <h2>Dont't hesitate to reach out.📩</h2>
