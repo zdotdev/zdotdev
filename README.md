@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=ai,linux,neovim,ps,pr,replit,unity,xd,visualstudio,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,css,express,html,java,js,mongodb,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,php,postman,powershell,py,react,svelte,tailwind,vite" /><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
 </div>
 
 <br/>
