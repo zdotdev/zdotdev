@@ -37,11 +37,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,figma,ae,anaconda,androidstudio,au,bash,discord,eclipse,figma" />
-    <img src="https://skillicons.dev/icons?i=github,gmail,gradel,ai,instagram,linux,neovim,ps,pr,replit" /><br>
-    <img src="https://skillicons.dev/icons?i=twitter,unity,xd,visualstudio,vscode,bootstrap,c,cs,css,express" /><br>
-    <img src="https://skillicons.dev/icons?i=html,java,js,mongodb,mysql,nodejs,php,postman,powershell,py" /><br>
-    <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=git,figma,ae,anaconda,androidstudio,au,bash,eclipse,figma,gradel" />
+    <img src="https://skillicons.dev/icons?i=ai,linux,neovim,ps,pr,replit,unity,xd,visualstudio,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,css,express,html,java,js,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,postman,powershell,py,react,svelte,tailwind,vite" /><br>
 </div>
 
 <br/>
