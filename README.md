@@ -144,6 +144,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div style="text-align: center;">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zdotdev&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zdotdev&theme=darcula)
+</div>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zdotdev&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zdotdev&theme=darcula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zdotdev&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zdotdev&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zdotdev&theme=darcula&utcOffset=8)
