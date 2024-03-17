@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a React.JS and Svelte Projects**
+ 🔭 I’m currently working on **a React and Svelte Projects**
  
- 🌱 I’m currently learning **Java, JavaScript, Python**
+ 🌱 I’m currently learning **Svelte and Python**
 
-💬 Ask me about **Node.js, React, Svelte, and Python... or anything [here](https://github.com/zdotdev/zdotdev/issues)**
+💬 Ask me about **Java, JavaScript, Svelte, and Python... or anything [here](https://github.com/zdotdev/zdotdev/issues)**
 
 ⚡ **"Death is nothing, but to live defeated and inglorious is to die daily."** — Napoleon Bonaparte
 
