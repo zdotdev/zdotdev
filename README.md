@@ -38,37 +38,21 @@
 <br/>
 <div align="center">
     <div style="display: flex;" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apl/apl-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 3rem; height: 3rem;" /><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 3rem; height: 3rem;" /><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 3rem; height: 3rem;" />
     </div><br/><br/>
     <div style="display: flex;" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width: 3rem; height: 3rem;" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="width: 3rem; height: 3rem;" />
@@ -94,9 +78,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" style="width: 3rem; height: 3rem;" /><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/v8/v8-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/v8/v8-original.svg" style="width: 3rem; height: 3rem;" /><br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" style="width: 3rem; height: 3rem;" />
@@ -106,24 +89,22 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" style="width: 3rem; height: 3rem;" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" style="width: 3rem; height: 3rem;" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width: 3rem; height: 3rem;" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width: 3rem; height: 3rem;" /><br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" style="width: 3rem; height: 3rem;" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" style="width: 3rem; height: 3rem;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="width: 3rem; height: 3rem;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="width: 3rem; height: 3rem;" /><br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="width: 3rem; height: 3rem;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width: 3rem; height: 3rem;" />
     </div>
