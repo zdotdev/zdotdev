@@ -131,16 +131,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zdotdev&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zdotdev&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zdotdev&theme=monokai&utcOffset=8)
-
+![](https://roadmap.sh/card/wide/64faf4885ce9f4ca58a348ce?variant=dark)
 </div>
 <br/><br/>
-
-<hr/>
-<br/><br/>
-<div align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64faf4885ce9f4ca58a348ce?variant=dark" alt="roadmap.sh"/></a>
-</div>
-<br/></br>
 
 <div align="center">
     <h2>Dont't hesitate to reach out.📩</h2>
