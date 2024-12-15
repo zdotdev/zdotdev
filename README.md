@@ -137,7 +137,8 @@
 
 <hr/>
 <br/><br/>
-[![roadmap.sh](https://roadmap.sh/card/wide/64faf4885ce9f4ca58a348ce?variant=light)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64faf4885ce9f4ca58a348ce?variant=light" alt="roadmap.sh"/></a>
+<br/></br>
 
 <div align="center">
     <h2>Dont't hesitate to reach out.📩</h2>
