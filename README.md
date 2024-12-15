@@ -137,7 +137,9 @@
 
 <hr/>
 <br/><br/>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64faf4885ce9f4ca58a348ce?variant=light" alt="roadmap.sh"/></a>
+<div align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64faf4885ce9f4ca58a348ce?variant=dark" alt="roadmap.sh"/></a>
+</div>
 <br/></br>
 
 <div align="center">
