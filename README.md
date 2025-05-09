@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:www.ragaszedrick25@gmail.com">
+  <a href="mailto:zeddotdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/zedrick-ragas-19a677286/" target="_blank">
+  <a href="https://www.linkedin.com/in/zdotdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
